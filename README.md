@@ -7,8 +7,8 @@
 This is a personal portfolio website showcasing the works and skills of Noman Karim, a certified ethical hacker and cybersecurity professional.
 
 ## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
+- [Overview](https://nomankarim8.github.io/PORTFOLIO/)
+- [Features](https://nomankarim8.github.io/PORTFOLIO/)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
