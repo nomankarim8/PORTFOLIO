@@ -12,7 +12,7 @@ This is a personal portfolio website showcasing the works and skills of Noman Ka
 - [Technologies Used](#technologies-used)
 - [Credits](#credits)
 - [License](#license)
-- [License](https://nomankarim8.github.io/stacked/)
+
 
 ## Overview
 This website serves as an online portfolio for Noman Karim, highlighting his experience and expertise in ethical hacking, cybersecurity, and freelancing. It includes sections for works, about, components, and contact information.
