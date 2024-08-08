@@ -1,6 +1,4 @@
-Sure, here's a more detailed example of a License page with some common sections. You can adjust the content as needed to fit your specific requirements.
 
-```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -64,7 +62,7 @@ Sure, here's a more detailed example of a License page with some common sections
       
       <h2>4. Privacy Policy</h2>
       <p>We are committed to protecting your privacy. Any personal information collected on this site will be kept confidential and will not be sold, reused, rented, or disclosed to third parties.</p>
-      
+
       
       <h2>5. Changes to this License</h2>
       <p>We reserve the right to modify these terms and conditions at any time. Any changes will be posted on this page and will take effect immediately upon posting.</p>
@@ -80,5 +78,3 @@ Sure, here's a more detailed example of a License page with some common sections
 </body>
 </html>
 ```
-
-This example includes sections for Terms of Use, Intellectual Property, Limitation of Liability, Privacy Policy, Changes to this License, and Contact Information. Feel free to customize each section to match your specific needs and legal requirements.
