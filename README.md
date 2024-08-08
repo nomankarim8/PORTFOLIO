@@ -1,7 +1,5 @@
 ![logo]( https://github.com/nomankarim8/nomankarim8/blob/main/image.png?raw=true )
 
-
-
 # Portfolio Website
 
 This is a personal portfolio website showcasing the works and skills of Noman Karim, a certified ethical hacker and cybersecurity professional.
