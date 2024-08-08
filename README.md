@@ -10,7 +10,7 @@ This is a personal portfolio website showcasing the works and skills of Noman Ka
 - [Overview](https://nomankarim8.github.io/PORTFOLIO/)
 - [Features](https://nomankarim8.github.io/PORTFOLIO/)
 - [Installation](https://nomankarim8.github.io/PORTFOLIO/)
-- [Usage](#usage)
+- [Usage](https://nomankarim8.github.io/PORTFOLIO/)
 - [Technologies Used](#technologies-used)
 - [Credits](#credits)
 - [License](#license)
