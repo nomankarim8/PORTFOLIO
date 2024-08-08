@@ -55,7 +55,7 @@ The website includes the following sections:
 - **Bootstrap**: CSS framework for responsive design.
 
 ## Credits
-- **Background Image**: The background image is sourced from the `./assets/images/space.jpg`.
+- **Background Image**: The background image is sourced from the `./assets/images/201.jpg`.
 - **Icons**: The website uses icons from various sources.
 
 ## License
