@@ -11,9 +11,9 @@ This is a personal portfolio website showcasing the works and skills of Noman Ka
 - [Features](https://nomankarim8.github.io/PORTFOLIO/)
 - [Installation](https://nomankarim8.github.io/PORTFOLIO/)
 - [Usage](https://nomankarim8.github.io/PORTFOLIO/)
-- [Technologies Used](#technologies-used)
-- [Credits](#credits)
-- [License](#license)
+- [Technologies Used](https://nomankarim8.github.io/PORTFOLIO/)
+- [Credits](nomankarim8)
+- [License](licence)
 
 ## Overview
 This website serves as an online portfolio for Noman Karim, highlighting his experience and expertise in ethical hacking, cybersecurity, and freelancing. It includes sections for works, about, components, and contact information.
