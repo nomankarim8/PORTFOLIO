@@ -59,7 +59,7 @@ The website includes the following sections:
 - **Icons**: The website uses icons from various sources.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](#licence) file for details.
+This project is licensed under the MIT License - see the [LICENSE](licence) file for details.
 ```
 
 This `README.md` provides an overview of your portfolio website, including installation instructions, usage, and details about the technologies used. Make sure to replace the GitHub repository URL and other placeholders with your actual information.
